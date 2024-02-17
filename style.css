@@ -1,0 +1,26 @@
+h1  { text-align: center; padding-left: 0%; padding-right: 5%; font-weight: bold;}
+p {padding-left: 0%; justify-content: center; margin-left: 40%; font-weight: bold;}
+
+.title { background-color: rgb(204, 204, 209); margin-top: 2%;margin-bottom: 2%; padding: 1%;
+    }
+
+
+
+
+    img {max-width: 100%; display: block;}
+
+    .DrIMG {justify-content: center; margin-top: 0%;margin-left: 15%; display: block;}
+
+    .Description { margin-top: 2%; margin-right:30%; text-align: center;}
+
+    .LifeTitle {margin-top: 2%;}
+
+    .Borlauglife { margin-top: 5%;} 
+
+
+    .Borlauglife {background-color: rgb(204, 204, 209); display: block;}
+
+    
+
+
+    .Borlauglist { text-align: center; font-weight: 100; margin-right: 30%;}
